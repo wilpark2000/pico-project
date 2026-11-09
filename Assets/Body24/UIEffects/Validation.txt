@@ -1,0 +1,11 @@
+PASS: Glow shader compiles and is supported
+PASS: Voronoi shader compiles and is supported
+PASS: Glow enables its required Canvas vertex channel
+PASS: Effects render without a mask
+PASS: Glow is visible outside sliced Image bounds
+PASS: Radial fill leaves unfilled pixels clear
+PASS: Glow expands the sliced Image mesh
+PASS: Zero fill removes Voronoi output
+PASS: Full fill renders Voronoi output
+PASS: Changing fill does not stretch or move the pattern
+PASS: Voronoi pattern animates over time

@@ -1,0 +1,63 @@
+# Unity generated data and local settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Pp]rofilerCaptures/
+/[Bb]ackups/
+
+# Build output
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+
+# Generated IDE projects and caches
+/.vs/
+/.vscode/
+/.idea/
+/.gradle/
+/*.csproj
+/*.sln
+/*.slnx
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+/sysinfo.txt
+/crashlytics-build.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials and signing keys
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+
+# Unity temporary asset folders
+/Assets/AssetStoreTools*
+/Assets/StreamingAssets/aa/
+/Assets/StreamingAssets/aa.meta
+
+# Generated project reports and editor recovery snapshots
+/Assets/Body24/Reports/
+/Assets/Body24/Reports.meta
+/Assets/_Recovery/
+/Assets/_Recovery.meta

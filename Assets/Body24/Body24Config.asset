@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ea5528b7cf37594891e9c4650c23b55, type: 3}
+  m_Name: Body24Config
+  m_EditorClassIdentifier: Assembly-CSharp::Body24.Body24Config
+  holdSeconds: 0.5
+  bonusWindow: 0.5
+  probeRadius: 0.0125
+  supportHeight: 0.09
+  liftHeight: 0.15
+  okDistance: 0.035
+  shoulderDistance: 0.32
+  shoulderCooldown: 0.35
+  sampleSeconds: 1.5
+  maximumSampleMotion: 0.06
+  minimumSampleCount: 15
+  floorHeight: 0
+  minimumHeight: 1.1
+  maximumHeight: 2.2
+  minimumLaneHalfWidth: 0.22
+  maximumLaneHalfWidth: 0.34
+  operatorReach: 0.3
+  headRiseLimit: 0.38
+  headDropLimit: 0.3
+  backwardLimit: 0.5
+  lateralLimit: 0.6
+  presenceGrace: 0.65
+  presenceHysteresis: 0.06
+  followDistance: 0.6
+  snapAngle: 20
+  followSpeed: 7
+  mergeSeconds: 0.35
+  ink: {r: 0.035, g: 0.065, b: 0.085, a: 0.97}
+  mint: {r: 0.35, g: 1, b: 0.73, a: 1}
+  gold: {r: 1, g: 0.78, b: 0.27, a: 1}

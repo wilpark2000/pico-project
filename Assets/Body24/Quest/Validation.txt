@@ -1,0 +1,2 @@
+Warning: Application Entry Point is required to set to Game Activity for Unity 6.0+.
+Warning: [Optional] Latency Optimization is recommended to be set to <b>Prioritize Input Polling</b> when Meta Quest support is enabled.
